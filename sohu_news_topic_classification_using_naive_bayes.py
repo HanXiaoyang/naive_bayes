@@ -5,7 +5,7 @@
 # simple naive bayes classifier to classify sohu news topic
 # data can be downloaded in http://www.sogou.com/labs/dl/cs.html
 
-# 代码功能：简易朴素贝叶斯分类器，用于对搜狐新闻主题分类，数据可在http://www.sogou.com/labs/dl/cs.html下载
+# 代码功能：简易朴素贝叶斯分类器，用于对搜狐新闻主题分类，数据可在http://www.sogou.com/labs/dl/cs.html下载(精简版)
 # 详细说明参见博客http://blog.csdn.net/han_xiaoyang/article/details/50629608
 # 作者：寒小阳<hanxiaoyang.ml@gmail.com>
 
