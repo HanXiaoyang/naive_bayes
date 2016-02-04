@@ -1,6 +1,7 @@
 # naive_bayes
 the code corresponding to my csdn blog naive bayes series
 对应[我的朴素贝叶斯博客](http://blog.csdn.net/han_xiaoyang/article/details/50629608)的代码与ipython notebook
+
 详细的讲解与手把手的教程讲解请戳[博文](http://blog.csdn.net/han_xiaoyang/article/details/50629608)
 
 1. iris_classification_using_naive_bayes.py为用朴素贝叶斯完成的iris花分类，数据为scikit-learn自带data
